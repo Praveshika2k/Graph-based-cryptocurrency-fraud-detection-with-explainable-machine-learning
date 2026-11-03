@@ -2,7 +2,7 @@
 
 Developed as part of the course on **Forensic Analytics** at **Vellore Institute of Technology, Chennai**.
 
-**By:** Praveshika M (23MIA1044) and Anjana Bagadi (23MIA1075)  
+**By:** Praveshika M (23MIA1044) and Bagadi Anjana (23MIA1075)  
 **Subject Code:** CSE4074  
 **Semester:** Fall 2026–27  
 **Professor:** Dr. S. Johanan Joysingh
